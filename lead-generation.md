@@ -1,4 +1,4 @@
-# Lead Gen
+# Lead Generation
 
 ## Lead Generation
 
