@@ -33,37 +33,36 @@
 ## SaaS Marketing
 
 ### Basics
-- https://en.wikipedia.org/wiki/Subscription_business_model
-- https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp
+- [https://en.wikipedia.org/wiki/Subscription_business_model](https://en.wikipedia.org/wiki/Subscription_business_model)
+- [https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp](https://www.investopedia.com/ask/answers/042715/how-do-subscription-business-models-work.asp)
 
 ### How SaaS Marketing is Different
-- https://pagely.com/blog/saas-marketing-different-from-other-types/
-- https://getcodeless.com/saas-marketing-strategy/
+- [https://pagely.com/blog/saas-marketing-different-from-other-types/](https://pagely.com/blog/saas-marketing-different-from-other-types/)
+- [https://getcodeless.com/saas-marketing-strategy/](https://getcodeless.com/saas-marketing-strategy/)
 
 ### SaaS Pros and Cons
-- https://brand24.com/blog/10-reasons-why-saas-model-is-beneficial-for-vendors-and-clients
-- https://technologyadvice.com/blog/information-technology/advantages-of-software-as-a-service-saas-2/
-- https://www.profitwell.com/recur/all/subscription-marketing
-- https://www.saasholic.com/understanding-saas-benefits-and-challenges/
+- [https://brand24.com/blog/10-reasons-why-saas-model-is-beneficial-for-vendors-and-clients](https://brand24.com/blog/10-reasons-why-saas-model-is-beneficial-for-vendors-and-clients)
+- [https://technologyadvice.com/blog/information-technology/advantages-of-software-as-a-service-saas-2/](https://technologyadvice.com/blog/information-technology/advantages-of-software-as-a-service-saas-2/)
+- [https://www.profitwell.com/recur/all/subscription-marketing](https://www.profitwell.com/recur/all/subscription-marketing)
+- [https://www.saasholic.com/understanding-saas-benefits-and-challenges/](https://www.saasholic.com/understanding-saas-benefits-and-challenges/)
 
 ### SaaS Metrics
-- https://en.wikipedia.org/wiki/Lead_generation
-- https://www.marketo.com/lead-generation/
-- https://www.leadboxer.com/resources/definition-lead-generation/
+- [https://neilpatel.com/blog/5-metrics-for-saas/](https://neilpatel.com/blog/5-metrics-for-saas/)
+- [https://www.appcues.com/blog/saas-growth-metrics](https://www.appcues.com/blog/saas-growth-metrics)
 
 ## SaaS Lead Generation
 
 ### Lead Generation Defined
-- https://www.leadboxer.com/resources/definition-lead-generation/
-- https://www.marketo.com/lead-generation
-- https://en.wikipedia.org/wiki/Lead_generation
+- [https://www.leadboxer.com/resources/definition-lead-generation/](https://www.leadboxer.com/resources/definition-lead-generation/)
+- [https://www.marketo.com/lead-generation](https://www.marketo.com/lead-generation)
+- [https://en.wikipedia.org/wiki/Lead_generation](https://en.wikipedia.org/wiki/Lead_generation)
 
 ### Customer Behavior
-- https://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/
-- https://medium.com/point-nine-news/self-service-transactional-or-enterprise-challenges-when-changing-your-saas-sales-model-dcf704608d0a
-- https://blog.close.com/move-from-self-serve-to-sales-supported-saas/
-- https://productled.com/pros-and-cons-of-self-serve-sales-driven-hybrid-model/
+- [https://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/](https://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)
+- [https://medium.com/point-nine-news/self-service-transactional-or-enterprise-challenges-when-changing-your-saas-sales-model-dcf704608d0a](https://medium.com/point-nine-news/self-service-transactional-or-enterprise-challenges-when-changing-your-saas-sales-model-dcf704608d0a)
+- [https://blog.close.com/move-from-self-serve-to-sales-supported-saas/](https://blog.close.com/move-from-self-serve-to-sales-supported-saas/)
+- [https://productled.com/pros-and-cons-of-self-serve-sales-driven-hybrid-model/](https://productled.com/pros-and-cons-of-self-serve-sales-driven-hybrid-model/)
 
 ### The Role of Customer Success
-- https://www.customersuccessassociation.com/library/the-definition-of-customer-success/
-- https://www.helpscout.com/blog/customer-support-vs-customer-success
+- [https://www.customersuccessassociation.com/library/the-definition-of-customer-success/](https://www.customersuccessassociation.com/library/the-definition-of-customer-success/)
+- [https://www.helpscout.com/blog/customer-support-vs-customer-success](https://www.helpscout.com/blog/customer-support-vs-customer-success)
