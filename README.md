@@ -2,7 +2,8 @@
 # B2B SaaS Marketing Master's
 ## A comprehensive directory of resources for early-stage B2B SaaS marketing.   
 
-**Building a dev tools product?** 
+**Building a dev tools product?** Watch [this repo](https://github.com/bishopolis/dev-tools-marketing) for future updates
+
 **Building a B2B SaaS product?** You're in the right place!
 
 This repo is for early-stage founders looking to improve their marketing and grow their B2B SaaS app faster. 
