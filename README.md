@@ -59,7 +59,7 @@ The B2B SaaS Marketing Master's is an encyclopedic directory of over 800 links c
     12. [Influencer Marketing](https://github.com/bishopolis/b2b-saas-marketing/blob/main/marketing-channels.md#influencer-marketing)
     13. [Display and Retargeting Ads](https://github.com/bishopolis/b2b-saas-marketing/blob/main/marketing-channels.md#display-and-retargeting-ads)
     14. [PR and and Analyst Relations](https://github.com/bishopolis/b2b-saas-marketing/blob/main/marketing-channels.md#pr-and-and-analyst-relations)
-8. P[roduct-led Growth](https://github.com/bishopolis/b2b-saas-marketing/blob/main/product-led-growth.md)
+8. [Product-led Growth](https://github.com/bishopolis/b2b-saas-marketing/blob/main/product-led-growth.md)
     1. [Product-Led Growth 101](https://github.com/bishopolis/b2b-saas-marketing/blob/main/product-led-growth.md#product-led-growth-101)
     2. [Onboarding](https://github.com/bishopolis/b2b-saas-marketing/blob/main/product-led-growth.md#onboarding-1)
     3. [Activation](https://github.com/bishopolis/b2b-saas-marketing/blob/main/product-led-growth.md#activation-1)
